@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Images/TexturedBg2.jpg</file>
+        <file>Images/centralscreenbg.png</file>
+        <file>Images/panellistbg.png</file>
+        <file>SessionPage.qml</file>
+        <file>HuronButton.qml</file>
+        <file>Images/activebutton.png</file>
+        <file>Images/hoverbutton.png</file>
+        <file>Images/normalbutton.png</file>
+        <file>TrendPage.qml</file>
+    </qresource>
+</RCC>

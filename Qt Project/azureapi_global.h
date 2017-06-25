@@ -1,0 +1,12 @@
+#ifndef AZUREAPI_GLOBAL_H
+#define AZUREAPI_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(AZUREAPI_LIBRARY)
+#  define AZUREAPISHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define AZUREAPISHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // AZUREAPI_GLOBAL_H
